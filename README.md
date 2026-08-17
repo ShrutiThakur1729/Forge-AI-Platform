@@ -109,6 +109,7 @@ Primary AI
 Fallback AI
     ↓
 Response
+```
 # 🏗️ Architecture
 
 FORGE follows a modular full-stack architecture combining a **Next.js web application**, **Supabase/PostgreSQL backend**, and a **FastAPI + LangGraph AI service**.
@@ -126,7 +127,7 @@ Next.js Web Application
                 │
                 ├── LangGraph
                 └── AI Provider Layer
-
+```
 ---
 
 # 👨‍💻 My Contribution
