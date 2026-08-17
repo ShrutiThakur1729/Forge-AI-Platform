@@ -65,6 +65,7 @@ Funding
 Growth
   ↓
 Scale
+```
 ---
 
 # 👥 Platform
